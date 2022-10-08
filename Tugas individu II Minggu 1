@@ -1,0 +1,16 @@
+Nama : ihratun
+Nim : 1901013074
+Kelas :
+
+Tugas Individu II:
+1.Bahasa python adalah bahasa pemrograman dengan infrastruktur tanpa server terkelola penuh yang mudah untuk ditafsirkan.
+2.Pemrograman languange adalah bahasa perintah pada komputer.
+3.Karna markup languange merupakan bahasa yang mempunyai aturan dan logika.
+4. Pemrograman konvensional adalah merupakan bahasa pemrograman struktural (struktured programming) yang berbasis teks. Pemrograman Visual adalah merupakan bahasa pemrograman setelah sistem operasi berbasis GUI yang mendukung konsep OOP, RAD dan event driven dan merupakan bahasa generasi ke-4
+5.Perbedaan hardcode dan soft code yaitu 
+6.Perbedaan Compiler dengan Interpreter
+Pada compiler, kode sumber akan dikonversi menjadi machine code sebelum program tersebut dijalankan. Sementara, interpreter mengkonversi source code menjadi machine code secara langsung ketika program dijalankan.
+7.Python syntaxnya tidak menggunakan titik koma diakhir kode dan juga tidak menggunakan kurawal untuk block program melainkan menggunakan tab, sedangkan pemrograman lain biasanya diakhiri titik koma dan kurung kurawal untuk block program. Kalau bahasa pemrograman lain mengenal istilah array sedangkan di python list.
+8.Text editor hanyalah suatu perangkat lunak yang didesain sebagai penyunting teks, sedangkan IDE adalah lingkungan perangkat lunak lengkap yang mengkonsolidasikan alat pengembang dasar yang diperlukan untuk membangun dan menguji perangkat lunak sehingga pastinya akan lebih kompleks dari segi program
+9.Sublime text, visual studio code, Jupiter notebook dll
+10.Algoritma bahasa natural merupakan cara penyajian suatu algoritma yang paling sederhana dan paling mudah untuk dimengerti. Sedangkan Flowchart adalah  suatu bagan dengan simbol-simbol tertentu yang menggambarkan urutan proses secara mendetail dan hubungan antara suatu proses (instruksi) dengan proses lainnya dalam suatu program. Sedangkan algoritma pseudocode adalah penulisan langkah-langkah penyelesaian masalah menggunakan  pendekatan instruksi bahasa pemrograman
